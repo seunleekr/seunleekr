@@ -1,8 +1,7 @@
-- 👋 모바일 개발자를 꿈꾸는 @seunleekr
-- 🌱 코틀린/객체지향 공부 중..
+- 👋 FE Developer | Next.js | React | PWA
+- 🌱 스타트업 단독 개발자 생존기..
 - 📫 rarafamily@naver.com
 - 💌 ig. @seunleekr
-- 🐢 거북목 버섯 증후군 진행 중..
 
 <!---
 seunleekr/seunleekr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
