@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
     <br/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
-    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white">
+    <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=ReactNative&logoColor=white">
     <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
     <br/>
@@ -33,7 +33,7 @@
 </div>
 
 <div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩🏻‍💻 Contact me </h2> <br> 
   <div style="text-align: left;">
     <a href="mailto:rarafamily4181@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
