@@ -3,7 +3,7 @@
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
     👋 FE Developer | Next.js | React | PWA <br/>
     🌱 스타트업 단독 개발자 생존기..<br/>
-    📫 rarafamily@naver.com<br/>
+    📫 rarafamily4181@gmail.com<br/>
     💌 linkedin. https://www.linkedin.com/in/seunlee/
   </div> 
 </div>
