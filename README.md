@@ -38,15 +38,5 @@
     <a href="mailto:rarafamily4181@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
     </a>
-    <a href="https://www.instagram.com/seunleekr/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
-    </a>
   </div> <br>
-</div>
-
-<div style="text-align: left;"> 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-  <div style="text-align: left;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunleekr&layout=compact&cache_seconds=7200&bg_color=180,bdddff,00000000&title_color=000000&text_color=000000"/>
-  </div>
 </div>
