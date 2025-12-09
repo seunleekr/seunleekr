@@ -42,5 +42,5 @@
 </div>
 
 <div>
-  https://github-readme-stats.vercel.app/api/top-langs/?username=seunleekr&layout=comapct&theme=tokyonight
+  https://github-readme-stats.vercel.app/api/top-langs/?username=seunleekr&layout=compact&theme=tokyonight
 </div>
